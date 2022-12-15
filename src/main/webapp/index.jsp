@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to mahavirsingh devops classes-pune<font></h1>
+<h1><font color='red'>Welcome to mahavirsingh devops classes-pune----free classes of devops<font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
